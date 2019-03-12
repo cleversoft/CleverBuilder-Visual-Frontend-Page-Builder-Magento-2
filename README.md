@@ -20,17 +20,19 @@ Build websites that load faster, and speed up the process of building them.
 
 ## Real Frontend Editor Experience
 
-Live Frontend editor, Inline editor, and Tree view allows you to make changes instantly and see end-results before publishing. Boost your Magento experience with the best and fastest editor on the market.
-
 ![](https://cleveraddon.com/wp-content/uploads/2019/02/cleverbuilder-1.jpg)
+
+Live Frontend editor, Inline editor, and Tree view allows you to make changes instantly and see end-results before publishing. Boost your Magento experience with the best and fastest editor on the market.
 
 ## Enjoy Over 30 Design Elements
 
+![](https://cleveraddon.com/wp-content/uploads/2019/02/cleverbuilder-3.jpg)
 
 Take advantage of the complete set of dedicated tools that help you generate more traffic, leads, and conversions. You don’t need dozens of plugins anymore.
 
 ## Works Perfect With Any Theme, Any CMS Page
 
+![](https://cleveraddon.com/wp-content/uploads/2019/02/cleverbuilder-sections-1024x743.png)
 
 CleverBuilder works with any Magento theme, CMS page. Change themes as often as you like and never lose your designed layouts. Your content is forever yours.
 
@@ -47,4 +49,6 @@ An intuitive interface makes it easy to create a beautiful website, all on your 
 You can easy to check [this video](https://www.youtube.com/embed/C2y7mdLsEUo) to see how it works. 
 
 
-Cheers!
+## DOWNLOAD 
+
+[Download Now](https://cleveraddon.com/cleverbuilder-page-builder-magento-2/)
